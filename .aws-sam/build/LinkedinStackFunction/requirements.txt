@@ -1,0 +1,13 @@
+fastapi
+supabase
+pinecone
+langgraph==0.1.1
+python-jose[cryptography]
+httpx
+pydantic
+
+langchain==0.2.11
+langchain-core==0.2.23
+langchain-google-genai==1.0.7
+mangum
+
